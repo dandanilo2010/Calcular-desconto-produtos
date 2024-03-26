@@ -1,0 +1,37 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+body {
+    background-image: url(./assets/f1e1971acf15abadbd81f21c171be1fb.jpeg);
+}
+
+.container{
+    width: 420px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    padding: 30px 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+ 
+
+}
+
+h1, p, h2{
+    color: #ffff;
+}
+
+.botao{
+    border-radius: 10px;
+    width: 50%;
+    height: 35px;
+    font-size: 25px;
+    
+}
